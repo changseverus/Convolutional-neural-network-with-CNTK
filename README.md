@@ -1,2 +1,6 @@
-# convolutional-neural-network-with-MNIST
-train a Convolutional Neural Network (CNN) on MNIST data.
+# Convolutional-neural-network-with-CNTK
+
+Use CNTK to build a convolutional neural network to solve the popular MNIST task, one of the most common dataset when it 
+comes to computer vision. 
+
+Try to train machine into being able to classify different handwritting image.
